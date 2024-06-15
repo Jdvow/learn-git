@@ -18,4 +18,6 @@
 
 ## 拉取远程仓库代码
     git pull <repo name> <branch>
-    
+
+## 分支操作
+    git merge
